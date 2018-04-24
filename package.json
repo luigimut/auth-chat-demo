@@ -4,7 +4,8 @@
   "description": "A simple demo using PubNub Access Manager to enforce a secure channel",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "install": "npm-git install"
   },
   "author": "Tomomi Imura",
   "license": "MIT",
