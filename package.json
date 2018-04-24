@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "install": "npm-git install"
+    "install": "npm-git install",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Tomomi Imura",
   "license": "MIT",
